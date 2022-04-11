@@ -1,0 +1,14 @@
+* {
+    background-color: #00000F;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: aquamarine;
+}
+
+li,
+a {
+    font-size: 20px;
+}
