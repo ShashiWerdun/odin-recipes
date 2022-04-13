@@ -9,6 +9,11 @@ h1 {
 }
 
 li,
-a {
+a,
+p {
     font-size: 20px;
+}
+
+.main-menu-link {
+    color: aquamarine;
 }
